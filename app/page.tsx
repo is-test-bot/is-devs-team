@@ -31,7 +31,7 @@ export default function Component() {
     },
     {
       name: "Daniel Matuoka",
-      role: "Software Developer",
+      role: "Software Developer & Salesforce specialist",
       description:
         "Desenvolvedora mobile com foco em React Native e Flutter. Criando apps que conectam pessoas e negócios.",
       skills: ["React Native", "Flutter", "iOS", "Android"],
