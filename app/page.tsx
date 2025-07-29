@@ -56,7 +56,7 @@ export default function Component() {
       role: "Software Developer",
       description:
         "Designer e desenvolvedora que une criatividade e código. Especialista em criar produtos digitais que encantam usuários.",
-      skills: ["Figma", "React", "CSS", "Design Systems"],
+      skills: ["Figma", "React", "CSS", "Design Systems", "Typescript", "Ruby"],
       image: "/placeholder.svg?height=300&width=300",
       github: "#",
       linkedin: "#",
