@@ -12,7 +12,7 @@ export default function Component() {
       role: "Team Lead & Developer",
       description:
         "Especialista em React, Node.js e arquitetura de sistemas. 8 anos de experiência liderando equipes de desenvolvimento.",
-      skills: ["React", "Node.js", "TypeScript", "AWS"],
+      skills: ["React", "Node.js", "TypeScript", "AWS", "GCP", "Salesforce"],
       image: "/placeholder.svg?height=300&width=300",
       github: "#",
       linkedin: "#",
@@ -31,7 +31,7 @@ export default function Component() {
     },
     {
       name: "Daniel Matuoka",
-      role: "Software Developer",
+      role: "Software Developer & Salesforce specialist",
       description:
         "Desenvolvedora mobile com foco em React Native e Flutter. Criando apps que conectam pessoas e negócios.",
       skills: ["React Native", "Flutter", "iOS", "Android"],
@@ -45,7 +45,7 @@ export default function Component() {
       role: "Software Developer",
       description:
         "Especialista em APIs robustas e escaláveis. Domina tecnologias como Python, PostgreSQL e arquitetura de microsserviços.",
-      skills: ["Python", "PostgreSQL", "Docker", "Kubernetes"],
+      skills: ["Python", "PostgreSQL", "Docker", "Kubernetes", "Typescript"],
       image: "/placeholder.svg?height=300&width=300",
       github: "#",
       linkedin: "#",
