@@ -12,7 +12,7 @@ export default function Component() {
       role: "Team Lead & Developer",
       description:
         "Especialista em React, Node.js e arquitetura de sistemas. 8 anos de experiência liderando equipes de desenvolvimento.",
-      skills: ["React", "Node.js", "TypeScript", "AWS"],
+      skills: ["React", "Node.js", "TypeScript", "AWS", "GCP", "Salesforce"],
       image: "/placeholder.svg?height=300&width=300",
       github: "#",
       linkedin: "#",
