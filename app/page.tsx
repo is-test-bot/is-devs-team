@@ -45,7 +45,7 @@ export default function Component() {
       role: "Software Developer",
       description:
         "Especialista em APIs robustas e escaláveis. Domina tecnologias como Python, PostgreSQL e arquitetura de microsserviços.",
-      skills: ["Python", "PostgreSQL", "Docker", "Kubernetes"],
+      skills: ["Python", "PostgreSQL", "Docker", "Kubernetes", "Typescript"],
       image: "/placeholder.svg?height=300&width=300",
       github: "#",
       linkedin: "#",
